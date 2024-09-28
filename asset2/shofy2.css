@@ -1,0 +1,337 @@
+/* Shofy start */
+
+a{
+    text-decoration: none;
+  }
+ .header{
+    background-image: url('img/product-1.jpeg');
+    height: 100vh;
+    background-size: cover;
+  }
+
+  .sec-1{
+    margin-left: -160px;
+  }
+  .home{
+    height: 180px;
+    width: 850PX;
+    /* margin-left: -140px; */
+   
+  }
+  .home img{
+    height: 130px;
+    width: 130px;
+  }
+  .winter span{
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 8px;
+    
+    font-family:charm , cursive;
+  }
+ .beauty h3{
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 1.06;
+    margin-bottom: 22px; 
+    
+ }
+ .carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 1.25rem;
+    left: -5%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+
+ 
+
+
+  /* ---------------------- */
+  .sec-2 {
+    font-size: 14px;
+    height: 330px;
+    width: 1000px;
+    margin-left: -300px;
+  }
+  
+  .dropimg img{
+    height:300px;
+    width: 200px;
+    margin-left: 20px;
+  }
+  .topbrand{
+    margin-top: auto;
+  }
+
+  .topbrand span{
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 8px;
+    margin-left: 100PX;
+    font-family:charm , cursive;
+    margin-left: 100px;
+  }
+  .beauty h3{
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 1.06;
+    margin-bottom: 22px; 
+    margin-left: 100px;  
+ }
+
+  /* ------------------- */
+
+  .sec-3{
+    margin-left: -300px;
+  }
+  .pro{
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  /* --------------------- */
+.sec-4{
+    font-size: 13px;
+}
+ul ul ul {
+    list-style-type:none;
+}
+
+  /* Product Collection */
+  
+  
+   .product-col{
+    padding: 95px 0px 0px;
+  }
+  .product-para{
+    color:#bd844c;
+  }
+  .shop-product a:hover{
+    color:white !important;
+    background-color:#bd844c ;
+  }
+  .product-1{
+    background-image: url('img/product1.jpeg');
+    min-height: 500px;
+    background-size: cover;
+    background-position: center; 
+    z-index: auto;
+    opacity:0.5;
+    background-color: rgb(62, 61, 61);
+  }
+  
+  .product-2{
+    background-image: url('img/product2.jpeg');
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+  }
+  .product-3{
+    background-image: url('img/product3.jpeg');
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+  }
+  .product-4{
+    background-image: url('img/product4.jpeg');
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  h5{
+    padding-top:400px ;
+    font-size: 25px;
+  }
+
+  /* save section */
+  .mainmate{
+    border: 1px solid rgb(218, 216, 216);
+  }
+  
+  .mate {
+    padding: 0px 50px 0px;
+    background-color: var(--tp-common-white);
+    border: 1px solid var(--tp-border-4);
+    margin-right: -1px;
+    margin-top: -1px;
+}
+
+.save-col{
+    padding-top: 80px;
+}
+.matelipstick h1{
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.matelipstick p {
+    font-size: 16px;
+    max-width: 350px;
+    margin-left: 50px;
+}
+
+.matelipstick h2 {
+    font-size: 20px;
+    color: #bd844c;
+    padding-left: 80px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+
+}
+.mate img{
+    margin-left: 60px;
+}
+.crushed h1 {
+    margin-left: 10px !important;
+    margin-top: 20px;
+}
+
+.crushed p {
+    font-size: 16px;
+    max-width: 350px;
+    margin-left: 50px;
+}
+
+.crushed h2 {
+    font-size: 20px;
+    color: #bd844c;
+    padding-left: 80px;
+    margin-left: 60px;
+    margin-bottom: 25px;
+}
+
+.mega h1 {
+    margin-left: 10px !important;
+}
+
+.mega p {
+    font-size: 16px;
+    max-width: 350px;
+    margin-left: 50px;
+}
+
+.mega h2 {
+    font-size: 20px;
+    color: #bd844c;
+    padding-left: 80px;
+    margin-left: 60px;
+    margin-bottom: 17px;
+}
+
+/* shop by category */
+
+.shop_col{
+    background-color: rgb(215, 209, 209);
+    margin-top: 150PX;
+  }
+.product-para{
+    color:#bd844c;
+    margin-top: 80px;
+    font-size: 19px;
+  }
+  .shop-product a:hover{
+    color:white !important;
+    background-color:#bd844c ;
+  }
+  .product-5{
+    background-image: url('img/olay.jpeg');
+    min-height: 350px;
+    background-size: cover;
+    background-position: center;
+  }
+  .product-6{
+    background-image: url('img/makeup.jpeg');
+    min-height: 350px;
+    background-size: cover;
+    background-position: center;
+  }
+  .product-7{
+    background-image: url('img/coola.jpeg');
+    min-height:350px;
+    background-size: cover;
+    background-position: center;
+  }
+  .product-8{
+    background-image: url('img/lipgloss.jpeg');
+    min-height:350px;
+    background-size: cover;
+    background-position: center;
+  }
+  .face{
+    font-weight: 500;
+    margin-bottom: 0;
+  }
+   
+  .by{
+    font-weight: 500;
+  }
+  .product-13{
+    background-image: url('img/grandcosmatick.jpeg');
+    min-height:350px;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+  }
+  .product-10{
+    background-image: url('img/powder.jpeg');
+    min-height:350px;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+  }
+  .product-11{
+    background-image: url('img/duo.jpeg');
+    min-height:350px;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+  }
+  .product-12{
+    background-image: url('img/airspun.jpeg');
+    min-height:350px;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+  }
+
+
+  /* foundation section */
+
+  .found_col{
+    margin-top: 80px;
+  }
+  .foundation{
+    background-image: url('img/foundation.jpeg');
+    min-height: 700px;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .collection-thumb{
+    margin-top: 100px;
+    position: absolute;
+  }
+
+  .collection-content{
+     
+        position: relative;
+        bottom: 650px;
+    }
+
+    
+  .collection-thumb{
+    margin-top: 100px;
+    position: absolute;
+  }
+
+  .collection-con{
+     
+        position: relative;
+        bottom: 250px;
+    }
+    
